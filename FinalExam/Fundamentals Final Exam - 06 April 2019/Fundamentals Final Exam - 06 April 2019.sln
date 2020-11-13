@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Dictionary", "01. Dictionary\01. Dictionary.csproj", "{D68D178F-83E0-4BD9-BF57-4A0A6F0BC62F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Deciphering", "02.Deciphering\02.Deciphering.csproj", "{4B23D96F-B5AA-462A-B65D-D0EC57655D0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D68D178F-83E0-4BD9-BF57-4A0A6F0BC62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68D178F-83E0-4BD9-BF57-4A0A6F0BC62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68D178F-83E0-4BD9-BF57-4A0A6F0BC62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68D178F-83E0-4BD9-BF57-4A0A6F0BC62F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B23D96F-B5AA-462A-B65D-D0EC57655D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B23D96F-B5AA-462A-B65D-D0EC57655D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B23D96F-B5AA-462A-B65D-D0EC57655D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B23D96F-B5AA-462A-B65D-D0EC57655D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E89B3FCE-BAA5-46F0-97B8-324A63AD8AFC}
+	EndGlobalSection
+EndGlobal
