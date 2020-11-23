@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Password Reset", "01. Password Reset\01. Password Reset.csproj", "{7AB5C883-7669-40E6-B136-42A74513B63A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Password Reset", "01. Password Reset\01. Password Reset.csproj", "{7AB5C883-7669-40E6-B136-42A74513B63A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Fancy Barcodes", "02. Fancy Barcodes\02. Fancy Barcodes.csproj", "{BBE141A8-50DA-4440-9047-FF5D4535777E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Fancy Barcodes", "02. Fancy Barcodes\02. Fancy Barcodes.csproj", "{BBE141A8-50DA-4440-9047-FF5D4535777E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Heroes of Code and Logic VII", "03. Heroes of Code and Logic VII\03. Heroes of Code and Logic VII.csproj", "{C7ED9745-3DB0-4C4E-AA53-C673FE2A8E38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BBE141A8-50DA-4440-9047-FF5D4535777E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBE141A8-50DA-4440-9047-FF5D4535777E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBE141A8-50DA-4440-9047-FF5D4535777E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7ED9745-3DB0-4C4E-AA53-C673FE2A8E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7ED9745-3DB0-4C4E-AA53-C673FE2A8E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7ED9745-3DB0-4C4E-AA53-C673FE2A8E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7ED9745-3DB0-4C4E-AA53-C673FE2A8E38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
