@@ -76,13 +76,13 @@ namespace _03._Plant_Discovery
             }
             foreach (var item in dict)
             {
-                if(item.Value.Count != 0)
+                if (item.Value.Count != 0)
                 {
                     result[item.Key][1] = item.Value.Average();
-                }           
+                }
             }
             Console.WriteLine("Plants for the exhibition:");
-            foreach (var item in result.OrderByDescending(x => x.Value[0]).ThenByDescending(x => x.Value[1])) 
+            foreach (var item in result.OrderByDescending(x => x.Value[0]).ThenByDescending(x => x.Value[1]))
             {
                 Console.WriteLine($"- {item.Key}; Rarity: {item.Value[0]}; Rating: {item.Value[1]:f2}");
             }
