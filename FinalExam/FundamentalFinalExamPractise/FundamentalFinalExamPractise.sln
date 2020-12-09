@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arriving in Kathmandu", "Arriving in Kathmandu\Arriving in Kathmandu.csproj", "{62386E4C-DE37-41B7-B69B-2658C42D14A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arriving in Kathmandu", "Arriving in Kathmandu\Arriving in Kathmandu.csproj", "{62386E4C-DE37-41B7-B69B-2658C42D14A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concert", "Concert\Concert.csproj", "{8411579A-6E32-4BC5-B9AE-5146139749C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concert", "Concert\Concert.csproj", "{8411579A-6E32-4BC5-B9AE-5146139749C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{E628DAF1-9CC6-4084-ADFF-E090CDCB559D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Dictionary.csproj", "{E628DAF1-9CC6-4084-ADFF-E090CDCB559D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email Validator", "Email Validator\Email Validator.csproj", "{E921B932-75E1-4B6F-B739-3F4C5F9BBF51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Email Validator", "Email Validator\Email Validator.csproj", "{E921B932-75E1-4B6F-B739-3F4C5F9BBF51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikulden’s Charity", "Nikulden’s Charity\Nikulden’s Charity.csproj", "{CC28D0F6-9020-4044-B1E6-04B969B29031}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nikulden’s Charity", "Nikulden’s Charity\Nikulden’s Charity.csproj", "{CC28D0F6-9020-4044-B1E6-04B969B29031}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hero Recruitment", "Hero Recruitment\Hero Recruitment.csproj", "{AD02AC98-C1C2-4B64-8F67-21D4F4FC1CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Message Translator", "Message Translator\Message Translator.csproj", "{1828B4AA-7823-4D91-B7B0-5D67D0C56C71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{CC28D0F6-9020-4044-B1E6-04B969B29031}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC28D0F6-9020-4044-B1E6-04B969B29031}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC28D0F6-9020-4044-B1E6-04B969B29031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD02AC98-C1C2-4B64-8F67-21D4F4FC1CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD02AC98-C1C2-4B64-8F67-21D4F4FC1CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD02AC98-C1C2-4B64-8F67-21D4F4FC1CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD02AC98-C1C2-4B64-8F67-21D4F4FC1CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1828B4AA-7823-4D91-B7B0-5D67D0C56C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1828B4AA-7823-4D91-B7B0-5D67D0C56C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1828B4AA-7823-4D91-B7B0-5D67D0C56C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1828B4AA-7823-4D91-B7B0-5D67D0C56C71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
