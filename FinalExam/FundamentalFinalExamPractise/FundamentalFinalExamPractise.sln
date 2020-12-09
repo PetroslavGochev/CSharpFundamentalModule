@@ -17,11 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hero Recruitment", "Hero Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Message Translator", "Message Translator\Message Translator.csproj", "{1828B4AA-7823-4D91-B7B0-5D67D0C56C71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registration", "Registration\Registration.csproj", "{AB66C3F3-5824-4952-A0DE-35D00663117A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Registration", "Registration\Registration.csproj", "{AB66C3F3-5824-4952-A0DE-35D00663117A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Need for Speed III", "Need for Speed III\Need for Speed III.csproj", "{3103EB38-5574-4F1D-8F1C-5200893705AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Need for Speed III", "Need for Speed III\Need for Speed III.csproj", "{3103EB38-5574-4F1D-8F1C-5200893705AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice sessions", "Practice sessions\Practice sessions.csproj", "{3E5A494E-63CA-4729-86EB-E1548ABDD714}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice sessions", "Practice sessions\Practice sessions.csproj", "{3E5A494E-63CA-4729-86EB-E1548ABDD714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Song Encryption", "Song Encryption\Song Encryption.csproj", "{7826481F-696C-4354-8D3E-ABEB93D58003}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{3E5A494E-63CA-4729-86EB-E1548ABDD714}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E5A494E-63CA-4729-86EB-E1548ABDD714}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E5A494E-63CA-4729-86EB-E1548ABDD714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7826481F-696C-4354-8D3E-ABEB93D58003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7826481F-696C-4354-8D3E-ABEB93D58003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7826481F-696C-4354-8D3E-ABEB93D58003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7826481F-696C-4354-8D3E-ABEB93D58003}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
