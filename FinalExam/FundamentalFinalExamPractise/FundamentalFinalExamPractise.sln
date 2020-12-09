@@ -15,7 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nikulden’s Charity", "Nik
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hero Recruitment", "Hero Recruitment\Hero Recruitment.csproj", "{AD02AC98-C1C2-4B64-8F67-21D4F4FC1CEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Message Translator", "Message Translator\Message Translator.csproj", "{1828B4AA-7823-4D91-B7B0-5D67D0C56C71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Message Translator", "Message Translator\Message Translator.csproj", "{1828B4AA-7823-4D91-B7B0-5D67D0C56C71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registration", "Registration\Registration.csproj", "{AB66C3F3-5824-4952-A0DE-35D00663117A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Need for Speed III", "Need for Speed III\Need for Speed III.csproj", "{3103EB38-5574-4F1D-8F1C-5200893705AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice sessions", "Practice sessions\Practice sessions.csproj", "{3E5A494E-63CA-4729-86EB-E1548ABDD714}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{1828B4AA-7823-4D91-B7B0-5D67D0C56C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1828B4AA-7823-4D91-B7B0-5D67D0C56C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1828B4AA-7823-4D91-B7B0-5D67D0C56C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB66C3F3-5824-4952-A0DE-35D00663117A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB66C3F3-5824-4952-A0DE-35D00663117A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB66C3F3-5824-4952-A0DE-35D00663117A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB66C3F3-5824-4952-A0DE-35D00663117A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3103EB38-5574-4F1D-8F1C-5200893705AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3103EB38-5574-4F1D-8F1C-5200893705AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3103EB38-5574-4F1D-8F1C-5200893705AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3103EB38-5574-4F1D-8F1C-5200893705AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5A494E-63CA-4729-86EB-E1548ABDD714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5A494E-63CA-4729-86EB-E1548ABDD714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5A494E-63CA-4729-86EB-E1548ABDD714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5A494E-63CA-4729-86EB-E1548ABDD714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
