@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Manipulator - Group 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Manipulator - Group 2", "String Manipulator - Group 2\String Manipulator - Group 2.csproj", "{8CB5D9DC-DCF9-4C56-80E7-C3D927F79F57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "Password\Password.csproj", "{055DFDDC-BCD9-4A9B-8C85-1631C0B5F92B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{8CB5D9DC-DCF9-4C56-80E7-C3D927F79F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CB5D9DC-DCF9-4C56-80E7-C3D927F79F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CB5D9DC-DCF9-4C56-80E7-C3D927F79F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055DFDDC-BCD9-4A9B-8C85-1631C0B5F92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055DFDDC-BCD9-4A9B-8C85-1631C0B5F92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055DFDDC-BCD9-4A9B-8C85-1631C0B5F92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055DFDDC-BCD9-4A9B-8C85-1631C0B5F92B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
