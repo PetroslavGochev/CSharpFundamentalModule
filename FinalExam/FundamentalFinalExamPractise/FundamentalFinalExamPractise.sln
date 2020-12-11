@@ -25,19 +25,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice sessions", "Practi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Song Encryption", "Song Encryption\Song Encryption.csproj", "{7826481F-696C-4354-8D3E-ABEB93D58003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Username", "Username\Username.csproj", "{176A71A9-35D4-4B66-AAD2-73D03E8E7BB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Username", "Username\Username.csproj", "{176A71A9-35D4-4B66-AAD2-73D03E8E7BB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Manipulator - Group 1", "String Manipulator - Group 1\String Manipulator - Group 1.csproj", "{084E65EE-AC76-470F-BF63-F61C7B8F7698}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Manipulator - Group 1", "String Manipulator - Group 1\String Manipulator - Group 1.csproj", "{084E65EE-AC76-470F-BF63-F61C7B8F7698}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Manipulator - Group 2", "String Manipulator - Group 2\String Manipulator - Group 2.csproj", "{8CB5D9DC-DCF9-4C56-80E7-C3D927F79F57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Manipulator - Group 2", "String Manipulator - Group 2\String Manipulator - Group 2.csproj", "{8CB5D9DC-DCF9-4C56-80E7-C3D927F79F57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "Password\Password.csproj", "{055DFDDC-BCD9-4A9B-8C85-1631C0B5F92B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Password", "Password\Password.csproj", "{055DFDDC-BCD9-4A9B-8C85-1631C0B5F92B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages Manager", "Messages Manager\Messages Manager.csproj", "{4828A9B3-13CE-46D9-8F6A-C3037D15FD6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Messages Manager", "Messages Manager\Messages Manager.csproj", "{4828A9B3-13CE-46D9-8F6A-C3037D15FD6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Message Encrypter", "Message Encrypter\Message Encrypter.csproj", "{27909915-0D8D-4233-B223-98660F6FF5AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Message Encrypter", "Message Encrypter\Message Encrypter.csproj", "{27909915-0D8D-4233-B223-98660F6FF5AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Message Decrypter", "Message Decrypter\Message Decrypter.csproj", "{F41E2665-FDC6-4D28-9780-A5540D94B19D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Message Decrypter", "Message Decrypter\Message Decrypter.csproj", "{F41E2665-FDC6-4D28-9780-A5540D94B19D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Followers", "Followers\Followers.csproj", "{7589B127-DBDD-4A74-8EF1-A5B7C71AB95C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Battle Manager", "Battle Manager\Battle Manager.csproj", "{DF865770-9F86-4CA9-B7F1-DE777E3485DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Isle of Man TT Race", "The Isle of Man TT Race\The Isle of Man TT Race.csproj", "{D501E232-0382-44F6-9E5F-9B7732C4CF8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikulden’s meals", "Nikulden’s meals\Nikulden’s meals.csproj", "{D0D89FCB-CA3A-40D4-A05B-65F9BCEC861B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +125,22 @@ Global
 		{F41E2665-FDC6-4D28-9780-A5540D94B19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F41E2665-FDC6-4D28-9780-A5540D94B19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F41E2665-FDC6-4D28-9780-A5540D94B19D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7589B127-DBDD-4A74-8EF1-A5B7C71AB95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7589B127-DBDD-4A74-8EF1-A5B7C71AB95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7589B127-DBDD-4A74-8EF1-A5B7C71AB95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7589B127-DBDD-4A74-8EF1-A5B7C71AB95C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF865770-9F86-4CA9-B7F1-DE777E3485DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF865770-9F86-4CA9-B7F1-DE777E3485DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF865770-9F86-4CA9-B7F1-DE777E3485DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF865770-9F86-4CA9-B7F1-DE777E3485DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D501E232-0382-44F6-9E5F-9B7732C4CF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D501E232-0382-44F6-9E5F-9B7732C4CF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D501E232-0382-44F6-9E5F-9B7732C4CF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D501E232-0382-44F6-9E5F-9B7732C4CF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D89FCB-CA3A-40D4-A05B-65F9BCEC861B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D89FCB-CA3A-40D4-A05B-65F9BCEC861B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D89FCB-CA3A-40D4-A05B-65F9BCEC861B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D89FCB-CA3A-40D4-A05B-65F9BCEC861B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

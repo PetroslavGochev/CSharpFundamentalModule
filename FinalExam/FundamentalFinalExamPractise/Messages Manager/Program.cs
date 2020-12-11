@@ -60,7 +60,7 @@ namespace Messages_Manager
             {
                 manager.Clear();
             }
-            else
+            else if (manager.ContainsKey(username))
             {
                 manager.Remove(username);
             }
