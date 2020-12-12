@@ -55,6 +55,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mirror words", "Mirror word
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boss Rush", "Boss Rush\Boss Rush.csproj", "{F31F254B-12A2-474C-ADEC-4634A77DBB7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warrior’s Quest", "Warrior’s Quest\Warrior’s Quest.csproj", "{1D1D5FD8-F6D5-412B-A26A-B1BAD97F5979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secret Chat", "Secret Chat\Secret Chat.csproj", "{FEACB801-6B05-4DAF-93FB-49232C36763B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +169,14 @@ Global
 		{F31F254B-12A2-474C-ADEC-4634A77DBB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F31F254B-12A2-474C-ADEC-4634A77DBB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F31F254B-12A2-474C-ADEC-4634A77DBB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1D5FD8-F6D5-412B-A26A-B1BAD97F5979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1D5FD8-F6D5-412B-A26A-B1BAD97F5979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1D5FD8-F6D5-412B-A26A-B1BAD97F5979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1D5FD8-F6D5-412B-A26A-B1BAD97F5979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEACB801-6B05-4DAF-93FB-49232C36763B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEACB801-6B05-4DAF-93FB-49232C36763B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEACB801-6B05-4DAF-93FB-49232C36763B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEACB801-6B05-4DAF-93FB-49232C36763B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

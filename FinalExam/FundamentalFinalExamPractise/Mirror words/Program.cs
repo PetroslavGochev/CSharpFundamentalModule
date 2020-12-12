@@ -17,6 +17,7 @@ namespace Mirror_words
             if(match.Count == 0)
             {
                 Console.WriteLine("No word pairs found!");
+                Console.WriteLine("No mirror words!");
                 return;
             }
             else
