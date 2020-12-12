@@ -43,13 +43,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Followers", "Followers\Foll
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Battle Manager", "Battle Manager\Battle Manager.csproj", "{DF865770-9F86-4CA9-B7F1-DE777E3485DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Isle of Man TT Race", "The Isle of Man TT Race\The Isle of Man TT Race.csproj", "{D501E232-0382-44F6-9E5F-9B7732C4CF8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Isle of Man TT Race", "The Isle of Man TT Race\The Isle of Man TT Race.csproj", "{D501E232-0382-44F6-9E5F-9B7732C4CF8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nikulden’s meals", "Nikulden’s meals\Nikulden’s meals.csproj", "{D0D89FCB-CA3A-40D4-A05B-65F9BCEC861B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nikulden’s meals", "Nikulden’s meals\Nikulden’s meals.csproj", "{D0D89FCB-CA3A-40D4-A05B-65F9BCEC861B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inbox Manager", "Inbox Manager\Inbox Manager.csproj", "{194918B6-1E03-48C1-A073-5322D1B6DC97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inbox Manager", "Inbox Manager\Inbox Manager.csproj", "{194918B6-1E03-48C1-A073-5322D1B6DC97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "On the Way to Annapurna", "On the Way to Annapurna\On the Way to Annapurna.csproj", "{4B494D44-5631-496D-B6B4-38AD65624F98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "On the Way to Annapurna", "On the Way to Annapurna\On the Way to Annapurna.csproj", "{4B494D44-5631-496D-B6B4-38AD65624F98}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mirror words", "Mirror words\Mirror words.csproj", "{42629624-4540-40C8-8F98-1A88D2E58341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boss Rush", "Boss Rush\Boss Rush.csproj", "{F31F254B-12A2-474C-ADEC-4634A77DBB7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +157,14 @@ Global
 		{4B494D44-5631-496D-B6B4-38AD65624F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B494D44-5631-496D-B6B4-38AD65624F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B494D44-5631-496D-B6B4-38AD65624F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42629624-4540-40C8-8F98-1A88D2E58341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42629624-4540-40C8-8F98-1A88D2E58341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42629624-4540-40C8-8F98-1A88D2E58341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42629624-4540-40C8-8F98-1A88D2E58341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31F254B-12A2-474C-ADEC-4634A77DBB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31F254B-12A2-474C-ADEC-4634A77DBB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31F254B-12A2-474C-ADEC-4634A77DBB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31F254B-12A2-474C-ADEC-4634A77DBB7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
