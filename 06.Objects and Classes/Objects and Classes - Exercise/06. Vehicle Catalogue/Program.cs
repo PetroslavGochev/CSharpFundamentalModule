@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace _06._Vehicle_Catalogue
+﻿namespace _06._Vehicle_Catalogue
 {
-    class Program
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+
+    public class Program
     {
         public static void Main(string[] args)
         {
@@ -72,11 +72,6 @@ namespace _06._Vehicle_Catalogue
 
     public class Vehicle
     {
-        public string TypeOfVehicle { get; set; }
-        public string Model { get; set; }
-        public string Color { get; set; }
-        public double HorsePower { get; set; }
-
         public Vehicle(string type, string model, string color, double horsePower)
         {
             this.TypeOfVehicle = type;
@@ -84,6 +79,15 @@ namespace _06._Vehicle_Catalogue
             this.Color = color;
             this.HorsePower = horsePower;
         }
+
+        public string TypeOfVehicle { get; set; }
+
+        public string Model { get; set; }
+
+        public string Color { get; set; }
+
+        public double HorsePower { get; set; }
+
         public override string ToString()
         {
             StringBuilder text = new StringBuilder();

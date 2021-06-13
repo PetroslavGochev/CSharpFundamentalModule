@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace _07._Order_by_Age
+﻿namespace _07._Order_by_Age
 {
-    class Program
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
+    public class Program
     {
         public static void Main(string[] args)
         {
@@ -28,16 +28,19 @@ namespace _07._Order_by_Age
     }
     public class Person
     {
-        public string FirstName { get; set; }
-        public string PersonalID { get; set; }
-        public int Age { get; set; }
-
         public Person(string firstName, string personalID, int age)
         {
             this.FirstName = firstName;
             this.PersonalID = personalID;
             this.Age = age;
         }
+
+        public string FirstName { get; set; }
+
+        public string PersonalID { get; set; }
+
+        public int Age { get; set; }
+
         public override string ToString()
         {
 

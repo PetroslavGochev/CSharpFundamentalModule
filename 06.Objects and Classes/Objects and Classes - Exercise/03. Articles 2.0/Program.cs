@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace _03._Articles_2._0
+﻿namespace _03._Articles_2._0
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class Program
     {
         public static void Main(string[] args)
@@ -42,10 +42,6 @@ namespace _03._Articles_2._0
         }
         public class Article
         {
-            public string Title { get; set; }
-            public string Content { get; set; }
-            public string Author { get; set; }
-
             public Article(string title, string content, string author)
             {
                 this.Title = title;
@@ -53,6 +49,13 @@ namespace _03._Articles_2._0
                 this.Author = author;
 
             }
+
+            public string Title { get; set; }
+
+            public string Content { get; set; }
+
+            public string Author { get; set; }
+
             public override string ToString()
             {
                 return $"{Title} - {Content}: {Author}";
